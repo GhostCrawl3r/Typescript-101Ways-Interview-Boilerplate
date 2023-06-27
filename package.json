@@ -5,7 +5,8 @@
   "author": "Nick Morgan",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node src/index.ts"
+    "dev": "ts-node src/index.ts",
+    "test": "jest --watch"
   },
   "dependencies": {
     "ts-node": "^10.9.1",
