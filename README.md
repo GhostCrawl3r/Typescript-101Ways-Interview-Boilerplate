@@ -1,6 +1,6 @@
-# Javascript Pairing Test Boilerplate. 
+# Typescript Pairing Test Boilerplate. 
 
-This is a boilerplate for Javascript/Typescript
+This is a boilerplate for Typescript
 
 ### How To Run The File:
 You will be expected to create your file in the `src/index.ts` directory. To run this file simply:
